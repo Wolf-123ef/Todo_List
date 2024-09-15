@@ -1,0 +1,65 @@
+#main{
+    margin-left: 200px;
+   
+   }h1{
+     color: lightcoral;
+     margin-left: 435px;
+   }label{
+     font-size: 20px;
+     margin-left: 3px;
+   }input{
+     font-size: 18px;
+     width: 400px;
+     height: 25px;
+   }#Title{
+     margin-left: 12px;
+   }#DueDate{
+     margin-left: 18px;
+   }#btn{
+     height: 30px;
+     font-size: 20px;
+     width: 100px;
+     background-color: white;
+     border: 2px solid black;
+     color: black;
+     margin-left: 435px;
+   }#btn:hover{
+     background-color: black;
+     color: white;
+   }#tab{
+     margin-top: 30px;
+     margin-left: 50px;
+     width: 920px;
+   }#a,#b{
+     padding: 7px 13px 0px 13px;
+     font-size: 19px;
+   }#e{
+     padding: 7px 13px 0px 13px;
+     font-size: 19px;
+     width: 80px;
+   }#d{
+     padding: 7px 13px 0px 13px;
+     font-size: 19px;
+     width: 100px;
+   }#c{
+     padding: 7px 13px 0px 13px;
+     font-size: 19px;
+     width: 130px;
+   }
+   .data td{
+     padding: 9px 15px 2px 15px;
+     font-size: 17px;
+     text-align: center;
+   }#edit{
+     font-size: 19px;
+     margin-left: 12px;
+     color: brown;
+   }#trash{
+     font-size: 19px;
+     margin-left: 20px;
+     color: red;
+   }#p{
+     color:purple;
+    margin-left: 435px;
+    font-size: 25px;
+   }
